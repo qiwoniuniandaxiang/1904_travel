@@ -3,3 +3,6 @@ xizai kaishi xuexi
 shishizhegedongxishi zengme long de
 bb
 aa 玩个脑子
+public static void main(String[] args){
+  System out println("开始");
+}
